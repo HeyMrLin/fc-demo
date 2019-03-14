@@ -16,7 +16,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.4.11",
-    "form-create": "^1.4.6",
+    "form-create": "^1.6.0",
+    "iview": "^3.3.0",
     "mockjs": "^1.0.1-beta3",
     "vue": "^2.5.2",
     "vue-quill-editor": "^3.0.6",

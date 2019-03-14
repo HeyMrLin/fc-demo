@@ -7,7 +7,7 @@ import App from './App'
 import router from './router'
 import store from './store'
 import Mock from "mockjs"
-import formCreate from "form-create"
+import formCreate from "form-create/element"
 import MyAxios from '@/const/MyAxios'
 import VueQuillEditor from 'vue-quill-editor'
 import 'quill/dist/quill.core.css'
